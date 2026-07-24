@@ -33,4 +33,9 @@
 
 ---
 
+## 𝐀𝐛𝐨𝐮𝐭
+The ocean covers 71% of Earth. We have explored less than 5%.
+
+𝐀𝐁𝐘𝐒𝐒 is an immersive digital expedition that transforms traditional web browsing into a cinematic journey through the unexplored depths of the ocean.
+
 
