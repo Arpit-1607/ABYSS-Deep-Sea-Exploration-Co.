@@ -304,4 +304,62 @@ Icons of the coral ecosystem.
 
 ---
 
+## 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+
+
+
+---
+
+## 𝐒𝐲𝐬𝐭𝐞𝐦 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞
+<img width="1280" height="853" alt="WhatsApp Image 2026-07-24 at 9 05 08 PM" src="https://github.com/user-attachments/assets/6313f06a-df66-4e5e-bb8a-46f127ac9674" />
+
+---
+
+## 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐏𝐫𝐞𝐯𝐢𝐞𝐰
+
+---
+
+## 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞
+
+
+---
+## 𝐈𝐦𝐩𝐚𝐜𝐭
+ABYSS is more than an interactive web experience—it is a mission to bridge the gap between technology and ocean conservation.
+
+By transforming scientific exploration into an immersive digital journey, ABYSS inspires curiosity, encourages environmental responsibility, and makes the mysteries of the deep ocean accessible to everyone.
+
+## 𝐖𝐡𝐚𝐭 𝐀𝐁𝐘𝐒𝐒 𝐀𝐢𝐦𝐬 𝐭𝐨 𝐀𝐜𝐡𝐢𝐞𝐯𝐞
+
+🌍 **Raise Ocean Awareness**  
+Encourage people to discover and appreciate Earth's least explored ecosystem.
+
+📚 **Make Marine Science Engaging**  
+Present complex oceanographic concepts through immersive storytelling and interactive experiences.
+
+🪸 **Promote Conservation**  
+Highlight the importance of protecting fragile marine ecosystems and biodiversity.
+
+🤖 **Demonstrate AI for Education**  
+Showcase how intelligent assistants can transform learning into an engaging, personalized experience.
+
+🎮 **Redefine Digital Storytelling**  
+Blend animation, sound, AI, and real-time interactions into a cinematic exploration unlike traditional educational platforms.
+
+🚀 **Inspire Future Innovation**  
+Encourage students, developers, and researchers to leverage technology for solving environmental challenges.
+
+---
+
+
+## 𝐅𝐮𝐭𝐮𝐫𝐞 𝐑𝐨𝐚𝐝𝐦𝐚𝐩
+
+
+
+
+---
+
+## 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐨𝐫𝐬
+
+
+
 
