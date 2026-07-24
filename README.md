@@ -22,3 +22,11 @@
 &nbsp;
 <img src="https://img.shields.io/badge/PS-1. ABYSS-0077B6?style=flat-square&logoColor=white"/>
 </p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/%20LIVE%20DEMO-00B4D8?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/%20DEMO%20VIDEO-48CAE4?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/%20DOCUMENTATION-00C2CB?style=for-the-badge&logo=gitbook&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/%20VIEW%20CODE-14b8a6?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/%20STAR%20REPOSITORY-023E8A?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
