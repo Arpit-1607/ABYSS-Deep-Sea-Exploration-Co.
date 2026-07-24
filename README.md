@@ -208,9 +208,6 @@ Designed with inclusive interactions, semantic structure, and responsive usabili
 ## 𝐌𝐚𝐫𝐢𝐧𝐞 𝐄𝐜𝐨𝐬𝐲𝐬𝐭𝐞𝐦
 
 <div align="center">
-
-<h2>🐠 Marine Ecosystem</h2>
-
 <table>
 <tr>
 
@@ -258,3 +255,53 @@ Icons of the coral ecosystem.
 </table>
 
 </div>
+
+---
+
+## 𝐎𝐜𝐞𝐚𝐧 𝐙𝐨𝐧𝐞𝐬
+<div align="center">
+
+<table>
+<tr>
+<th>Zone</th>
+<th>Depth</th>
+<th>Theme</th>
+</tr>
+
+<tr>
+<td>☀️ <b>Sunlight Zone</b></td>
+<td>0–200 m</td>
+<td>Bright ecosystem</td>
+</tr>
+
+<tr>
+<td>🌅 <b>Twilight Zone</b></td>
+<td>200–1000 m</td>
+<td>Fading light</td>
+</tr>
+
+<tr>
+<td>🌌 <b>Midnight Zone</b></td>
+<td>1000–4000 m</td>
+<td>Complete darkness</td>
+</tr>
+
+<tr>
+<td>🌑 <b>Abyssal Zone</b></td>
+<td>4000–6000 m</td>
+<td>Extreme pressure</td>
+</tr>
+
+<tr>
+<td>🕳️ <b>Hadal Zone</b></td>
+<td>6000 m+</td>
+<td>Deepest ocean trenches</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+
