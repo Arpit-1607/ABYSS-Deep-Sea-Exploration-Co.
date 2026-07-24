@@ -1,6 +1,6 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { useState } from "react";
-import {X} from "lucide-react";
+import { X } from "lucide-react";
 import anglerfishImg from "@/assets/species-anglerfish-real.jpg";
 import seahorseImg from "@/assets/species-seahorse.jpg";
 import combJellyImg from "@/assets/species-jelly.jpg";
