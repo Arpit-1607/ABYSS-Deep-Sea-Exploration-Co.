@@ -79,4 +79,19 @@ To redefine digital storytelling by transforming the web into an immersive mediu
 
 <br>
 
+• `💧 Liquid Cursor Physics`
+> Water-inspired cursor with fluid motion, ripple effects, and floating bubble trails.
+
+<br>
+
+• `🎵 Immersive Ocean Audio`
+> Spatial underwater ambience, sonar pings, bubbles, and depth-adaptive soundscapes.
+
+<br>
+
+• `🛰 Intelligent Sonar System`
+> Interactive sonar scans that reveal hidden marine life and enhance exploration.
+
+
+
 
