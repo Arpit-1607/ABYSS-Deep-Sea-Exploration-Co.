@@ -317,6 +317,46 @@ Icons of the coral ecosystem.
 
 ## 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐏𝐫𝐞𝐯𝐢𝐞𝐰
 
+<img width="959" height="494" alt="image" src="https://github.com/user-attachments/assets/49dc39cf-14c1-4ac8-90db-71b85ee27fe6" />
+
+<img width="959" height="494" alt="image" src="https://github.com/user-attachments/assets/91132017-d404-47f5-8d0f-159b67b09b08" />
+
+<img width="959" height="497" alt="image" src="https://github.com/user-attachments/assets/37e2fe31-0bfa-4176-83de-989ad2179537" />
+
+<img width="959" height="494" alt="image" src="https://github.com/user-attachments/assets/e13cc470-c76d-4200-8134-e17251325d4f" />
+
+<img width="959" height="497" alt="image" src="https://github.com/user-attachments/assets/4fbb1a91-8db3-4fd0-a70c-52d170c766b1" />
+
+<img width="959" height="498" alt="image" src="https://github.com/user-attachments/assets/98994990-5fb0-48c0-ae61-8b49fe7aad22" />
+
+<img width="959" height="495" alt="image" src="https://github.com/user-attachments/assets/d23ce2fe-fc6f-45a7-a765-beb2e601845f" />
+
+<img width="959" height="490" alt="image" src="https://github.com/user-attachments/assets/4943cd75-0cee-4a02-9e20-3c18447f0e6f" />
+
+<img width="959" height="497" alt="image" src="https://github.com/user-attachments/assets/310b7fb8-a9d4-4548-aaa9-06e23f3c7ea1" />
+
+<img width="959" height="493" alt="image" src="https://github.com/user-attachments/assets/f99f3f5e-53eb-4a60-a088-1baa028fcc94" />
+
+<img width="959" height="489" alt="image" src="https://github.com/user-attachments/assets/97443fe8-8eca-4e72-9841-e990b1e202c9" />
+
+<img width="959" height="490" alt="image" src="https://github.com/user-attachments/assets/6adfd5b6-f3bb-47f4-9674-fa018c14e531" />
+
+<img width="959" height="495" alt="image" src="https://github.com/user-attachments/assets/812be175-22fe-49d5-9b42-7ddb6c70f290" />
+
+<img width="959" height="493" alt="image" src="https://github.com/user-attachments/assets/61532a64-13d3-40ba-9e43-d25b3d20516b" />
+
+<img width="958" height="493" alt="image" src="https://github.com/user-attachments/assets/573529bd-a8eb-411e-b2ce-d0ffc97297b5" />
+
+<img width="959" height="495" alt="image" src="https://github.com/user-attachments/assets/aeb590a3-533b-4f9c-a31f-59300ff7908d" />
+
+<img width="959" height="492" alt="image" src="https://github.com/user-attachments/assets/d3823888-f7b8-42d5-845b-08b17f614ad9" />
+
+<img width="959" height="493" alt="image" src="https://github.com/user-attachments/assets/baeb32b6-4add-470b-a26c-29fe319be83d" />
+
+<img width="959" height="493" alt="image" src="https://github.com/user-attachments/assets/97c8af68-e01a-4e10-ad5d-4e34fb8ceedc" />
+
+<img width="959" height="496" alt="image" src="https://github.com/user-attachments/assets/6a85f0f8-bfa3-4521-a75f-5fc5b7b69585" />
+
 ---
 
 ## 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞
