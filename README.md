@@ -51,3 +51,16 @@ To redefine digital storytelling by transforming the web into an immersive mediu
 
 ---
 
+## 𝐖𝐡𝐲 𝐃𝐢𝐯𝐞 𝐰𝐢𝐭𝐡 𝐀𝐁𝐘𝐒𝐒?
+
+
+• `🌊 Immersive Storytelling`
+> Scroll-driven cinematic exploration where every descent unveils a new chapter of the ocean.
+
+<br>
+
+• `📡 Live Telemetry HUD`
+> Dynamic mission data including depth, pressure, oxygen, visibility, and marine discoveries.
+
+<br>
+
