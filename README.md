@@ -204,14 +204,4 @@ Designed with inclusive interactions, semantic structure, and responsive usabili
 
 ```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:0288D1&section=footer" height="300" width="1950"/>
-</p>
-
-<div align="center">
-
-
-
-
-
 
