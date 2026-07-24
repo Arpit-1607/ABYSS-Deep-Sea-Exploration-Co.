@@ -14,3 +14,11 @@
 `🪸 Coral Reefs`
 `🌊 Ocean Depths`
 `🚢 Expedition`
+
+<p align="center">
+<img src="https://img.shields.io/badge/Team-Elevate-48CAE4?style=flat-square&logo=graduation-cap&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Hackathon-HackOcean_2k26-00C2CB?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PS-1. ABYSS-0077B6?style=flat-square&logoColor=white"/>
+</p>
