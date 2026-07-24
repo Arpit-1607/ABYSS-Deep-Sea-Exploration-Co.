@@ -38,4 +38,8 @@ The ocean covers 71% of Earth. We have explored less than 5%.
 
 𝐀𝐁𝐘𝐒𝐒 is an immersive digital expedition that transforms traditional web browsing into a cinematic journey through the unexplored depths of the ocean.
 
+Designed for the 𝐇𝐚𝐜𝐤𝐎𝐜𝐞𝐚𝐧 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐇𝐚𝐜𝐤𝐚𝐭𝐡𝐨𝐧, 𝐀𝐁𝐘𝐒𝐒 blends scroll-driven storytelling, realistic marine ecosystems, interactive telemetry, fluid animations, spatial audio, and the intelligent 𝐴𝑞𝑢𝑎𝑟𝑖𝑢𝑠 𝐴𝐼 assistant into a seamless luxury experience. Every interaction is crafted to evoke the wonder, mystery, and beauty of deep-sea exploration.
+
+𝙼𝚘𝚛𝚎 𝚝𝚑𝚊𝚗 𝚊 𝚕𝚊𝚗𝚍𝚒𝚗𝚐 𝚙𝚊𝚐𝚎, 𝙰𝙱𝚈𝚂𝚂 𝚒𝚜 𝚊𝚗 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚠𝚑𝚎𝚛𝚎 𝚎𝚟𝚎𝚛𝚢 𝚜𝚌𝚛𝚘𝚕𝚕 𝚒𝚜 𝚊 𝚍𝚎𝚜𝚌𝚎𝚗𝚝, 𝚎𝚟𝚎𝚛𝚢 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚘𝚗 𝚒𝚜 𝚊 𝚍𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝚢, 𝚊𝚗𝚍 𝚎𝚟𝚎𝚛𝚢 𝚍𝚎𝚙𝚝𝚑 𝚝𝚎𝚕𝚕𝚜 𝚊 𝚜𝚝𝚘𝚛𝚢.
+
 
