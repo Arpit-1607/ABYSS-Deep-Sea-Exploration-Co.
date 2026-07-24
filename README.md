@@ -306,6 +306,22 @@ Icons of the coral ecosystem.
 
 ## 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
+![Lenis](https://img.shields.io/badge/Lenis-Smooth_Scroll-0F172A?style=for-the-badge)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+</div>
+
 
 
 ---
@@ -439,8 +455,53 @@ ABYSS is designed as an evolving platform. Our vision is to continuously expand 
 
 ---
 
-## 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐨𝐫𝐬
+## 𝐌𝐞𝐞𝐭 𝐭𝐡𝐞 𝐓𝐞𝐚𝐦
 
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<h3>👨‍💻 Arpit Yadav</h3>
+
+<b>B.Tech Mathematics & Computing</b><br>
+<b>3rd Year</b>
+
+Driven by innovation and problem-solving, contributing towards building impactful solutions through modern web technologies.
+
+</td>
+
+<td align="center" width="50%">
+
+<h3>👩‍💻 Aastha Pyasi</h3>
+
+<b>B.Tech Mathematics & Computing</b><br>
+<b>3rd Year</b>
+
+Passionate about building immersive digital experiences, blending creativity with technology to create intuitive and engaging web applications.
+
+</td>
+
+<td align="center" width="50%">
+
+</tr>
+</table>
+
+<br>
+
+
+**Exploring ideas. Building experiences. Inspiring curiosity.**
+
+𝑀𝑎𝑑𝑒 𝑤𝑖𝑡ℎ 💜 𝑏𝑦 𝑇𝑒𝑎𝑚 𝐸𝑙𝑒𝑣𝑎𝑡𝑒!
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F54,30:003566,60:0077B6,100:00B4D8&height=110&section=footer"/>
+</p>
+
+<div align="center">
 
 
 
