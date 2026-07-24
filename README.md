@@ -64,3 +64,19 @@ To redefine digital storytelling by transforming the web into an immersive mediu
 
 <br>
 
+• `🤖 AQUARIUS AI`
+> Your intelligent onboard companion providing contextual guidance and marine exploration insights.
+
+<br>
+
+• `🐠 Living Marine Ecosystem`
+> Hover-responsive marine life with realistic underwater behaviors and natural interactions.
+
+<br>
+
+• `🪸 Interactive Coral Reefs`
+> Animated corals that gently sway, bloom, and respond to underwater currents and cursor movement.
+
+<br>
+
+
