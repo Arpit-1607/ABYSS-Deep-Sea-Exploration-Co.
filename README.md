@@ -157,6 +157,7 @@ To redefine digital storytelling by transforming the web into an immersive mediu
 ✨  Discover the Unknown
 
 ```
+---
 
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
@@ -202,6 +203,58 @@ Built with modern frontend technologies to deliver smooth rendering, efficient a
 ♿ **Accessibility Focused**  
 Designed with inclusive interactions, semantic structure, and responsive usability to create an engaging experience for all users.
 
-```
+---
 
+## 𝐌𝐚𝐫𝐢𝐧𝐞 𝐄𝐜𝐨𝐬𝐲𝐬𝐭𝐞𝐦
 
+<div align="center">
+
+<h2>🐠 Marine Ecosystem</h2>
+
+<table>
+<tr>
+
+<td align="center" width="180">
+<h3>🐋</h3>
+<b>Whale</b><br><br>
+Gentle giants of the deep.
+</td>
+
+<td align="center" width="180">
+<h3>🪸</h3>
+<b>Coral</b><br><br>
+Living underwater forests.
+</td>
+
+<td align="center" width="180">
+<h3>🐢</h3>
+<b>Turtle</b><br><br>
+Ancient navigators of the ocean.
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="180">
+<h3>🐠</h3>
+<b>Fish</b><br><br>
+Vibrant life across every depth.
+</td>
+
+<td align="center" width="180">
+<h3>🪼</h3>
+<b>Jellyfish</b><br><br>
+Gracefully drifting through the abyss.
+</td>
+
+<td align="center" width="180">
+<h3>⭐</h3>
+<b>Starfish</b><br><br>
+Icons of the coral ecosystem.
+</td>
+
+</tr>
+</table>
+
+</div>
