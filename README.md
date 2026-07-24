@@ -377,6 +377,37 @@ Icons of the coral ecosystem.
 
 ## 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞
 
+```text
+ABYSS-Deep-Sea-Exploration-Co.
+│
+├── abyss/
+│   └── src/
+│       ├── assets/
+│       ├── components/
+│       ├── hooks/
+│       ├── lib/
+│       ├── routes/
+│       ├── styles/
+│       ├── utils/
+│       ├── router.tsx
+│       ├── routeTree.gen.ts
+│       ├── server.ts
+│       └── start.ts
+│
+├── .gitignore
+├── .prettierignore
+├── .prettierrc
+├── bun.lock
+├── bunfig.toml
+├── components.json
+├── eslint.config.js
+├── package.json
+├── project.json
+├── tsconfig.json
+├── vite.config.ts
+└── README.md
+```
+
 
 ---
 ## 𝐈𝐦𝐩𝐚𝐜𝐭
