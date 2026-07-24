@@ -92,6 +92,30 @@ To redefine digital storytelling by transforming the web into an immersive mediu
 • `🛰 Intelligent Sonar System`
 > Interactive sonar scans that reveal hidden marine life and enhance exploration.
 
+<br>
+
+• `✨ Cinematic Motion Design`
+> Premium animations powered by smooth transitions, parallax effects, and fluid interactions.
+
+<br>
+
+• `🐚Dynamic Ocean Depths`
+> Seamlessly transition through distinct ocean zones with evolving lighting and atmosphere.
+
+<br>
+
+• `🚢 Luxury Deep-Sea Expedition`
+> Experience the feeling of exploring the ocean aboard a premium research submarine.
+
+<br>
+
+• `🌍 Responsive & Accessible`
+> Fully optimized for desktop, tablet, and mobile while maintaining exceptional performance.
+
+<br>
+
+---
+
 
 
 
