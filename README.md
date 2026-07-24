@@ -42,4 +42,8 @@ Designed for the 𝐇𝐚𝐜𝐤𝐎𝐜𝐞𝐚𝐧 𝐅𝐫𝐨𝐧𝐭𝐞�
 
 𝙼𝚘𝚛𝚎 𝚝𝚑𝚊𝚗 𝚊 𝚕𝚊𝚗𝚍𝚒𝚗𝚐 𝚙𝚊𝚐𝚎, 𝙰𝙱𝚈𝚂𝚂 𝚒𝚜 𝚊𝚗 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚠𝚑𝚎𝚛𝚎 𝚎𝚟𝚎𝚛𝚢 𝚜𝚌𝚛𝚘𝚕𝚕 𝚒𝚜 𝚊 𝚍𝚎𝚜𝚌𝚎𝚗𝚝, 𝚎𝚟𝚎𝚛𝚢 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚘𝚗 𝚒𝚜 𝚊 𝚍𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝚢, 𝚊𝚗𝚍 𝚎𝚟𝚎𝚛𝚢 𝚍𝚎𝚙𝚝𝚑 𝚝𝚎𝚕𝚕𝚜 𝚊 𝚜𝚝𝚘𝚛𝚢.
 
+ABYSS transforms traditional web experiences into cinematic underwater expeditions. Rather than simply presenting information, it recreates the mystery, beauty, and thrill of deep-sea exploration using immersive storytelling, premium animations, interactive marine ecosystems, and modern frontend technologies. Every scroll represents a deeper descent into the unknown.
+
+---
+
 
