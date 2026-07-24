@@ -393,8 +393,49 @@ Encourage students, developers, and researchers to leverage technology for solvi
 
 ## 𝐅𝐮𝐭𝐮𝐫𝐞 𝐑𝐨𝐚𝐝𝐦𝐚𝐩
 
+ABYSS is designed as an evolving platform. Our vision is to continuously expand the expedition with new technologies, richer storytelling, and immersive exploration experiences.
 
+### Phase 1 — Foundation ✅
+- [x] Cinematic underwater landing experience
+- [x] Interactive ocean depth exploration
+- [x] AQUARIUS AI expedition guide
+- [x] Real-time telemetry dashboard
+- [x] Dynamic marine life animations
+- [x] Ocean zone transitions
+- [x] Ambient underwater soundscape
+- [x] Responsive cross-platform experience
 
+---
+
+### Phase 2 — Enhanced Exploration 🚧
+- [ ] AI-powered personalized expedition companion
+- [ ] Interactive species encyclopedia
+- [ ] Sonar-based hidden species discovery
+- [ ] Dynamic weather & ocean current simulation
+- [ ] Ocean fact cards with scientific references
+- [ ] Achievement badges & explorer progression
+- [ ] Interactive mission challenges
+
+---
+
+### Phase 3 — Advanced Immersion 🌊
+- [ ] Live oceanographic data integration
+- [ ] 3D deep-sea ecosystem visualization
+- [ ] WebXR / Virtual Reality diving experience
+- [ ] Underwater photography mode
+- [ ] Multiplayer collaborative expeditions
+- [ ] Voice-controlled AQUARIUS AI Assistant
+- [ ] Dynamic procedural marine ecosystems
+
+---
+
+### Phase 4 — Global Impact 🌍
+- [ ] Marine conservation awareness campaigns
+- [ ] Educational learning modules for schools
+- [ ] Citizen science & marine observation platform
+- [ ] Research collaboration dashboard
+- [ ] Multi-language accessibility
+- [ ] Global Ocean Explorer community
 
 ---
 
