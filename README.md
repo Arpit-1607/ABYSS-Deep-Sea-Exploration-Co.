@@ -46,4 +46,8 @@ ABYSS transforms traditional web experiences into cinematic underwater expeditio
 
 ---
 
+## 𝐕𝐢𝐬𝐢𝐨𝐧
+To redefine digital storytelling by transforming the web into an immersive medium where exploration, emotion, and technology converge. ABYSS envisions a future where every interaction feels alive, every journey sparks curiosity, and every experience leaves a lasting impression.
+
+---
 
